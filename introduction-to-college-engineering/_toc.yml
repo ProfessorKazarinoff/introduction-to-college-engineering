@@ -2,8 +2,97 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: index.md
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: 2.units/2.0-introduction.md
+  title: Units and Significant Figures
+  sections:
+  - file: 2.units/2.1-units-and-dimensions.md
+  - file: 2.units/2.2-unit-conversion.md
+  - file: 2.units/2.3-significant-figures.md
+  - file: 2.units/2.4-exersizes.md
+
+# ENGR 101 Book TOC
+
+## What is Engineering?
+
+### Engineering Careers
+
+### Engineering Education
+
+#### Civil
+
+#### Electrical
+
+#### Mechanical
+
+#### Chemical
+
+#### Bio
+
+### Comp Sci
+
+### Engineering Tools
+
+##### Manual Tools
+
+##### Engineering Paper
+
+##### Pencils
+
+##### Rulers and stencils
+
+##### Calculators
+
+#### Computer Tools
+
+##### Programming
+
+##### CAD
+
+##### Simulation
+
+## Units and Significant Figures
+
+### Units and Dimensions
+
+### Unit Conversions
+
+### Significant Figures
+
+### Exercises
+
+
+## Statistics
+
+## Electricity
+
+## Circuits
+
+### Circuit Symbols
+
+### Series Circuits
+
+### Parallel Circuits
+
+### Kirchov’s Laws
+
+## Vectors
+
+## Statics
+
+## Strengths
+
+## Ethics
+
+## Reference
+
+### Units
+
+### Unit Conversions
+
+### Symbols
+
+### Geometry
+
+### Algebra
