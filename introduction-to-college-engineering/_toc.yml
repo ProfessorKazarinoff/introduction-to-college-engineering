@@ -8,9 +8,11 @@ chapters:
   title: Units and Significant Figures
   sections:
   - file: 2.units/2.1-units-and-dimensions.md
-  - file: 2.units/2.2-unit-conversion.md
-  - file: 2.units/2.3-significant-figures.md
-  - file: 2.units/2.4-exersizes.md
+  - file: 2.units/2.2-dimensional-analysis.md
+  - file: 2.units/2.3-unit-conversion.md
+  - file: 2.units/2.4-significant-figures.md
+  - file: 2.units/2.5-summary.md
+  - file: 2.units/2.6-exersizes.md
 
 # ENGR 101 Book TOC
 
