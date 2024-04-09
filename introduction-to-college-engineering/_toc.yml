@@ -15,6 +15,16 @@ chapters:
   - file: 2.units/2.6-exersizes.md
 - file: 3.statistics/3.0-introduction.md
   title: Statistics
+  sections:
+  - file: 3.statistics/3.1-what-is-statistics.md
+  - file: 3.statistics/3.2-why-statistics-for-engineers
+  - file: 3.statistics/3.3-discrete-and-continous-measurements.md
+  - file: 3.statistics/3.4-samples-and-populations.md
+  - file: 3.statistics/3.5-measures-of-central-tendency.md
+  - file: 3.statistics/3.6-measures-of-variance.md
+  - file: 3.statistics/3.7-histograms.md
+  - file: 3.statistics/3.8-gaussian-distribution.md
+  - file: 3.statistics/3.9-exersizes.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
