@@ -13,6 +13,8 @@ chapters:
   - file: 2.units/2.4-significant-figures.md
   - file: 2.units/2.5-summary.md
   - file: 2.units/2.6-exersizes.md
+- file: 3.statistics/3.0-introduction.md
+  title: Statistics
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
