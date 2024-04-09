@@ -31,7 +31,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install -r intoduction-to-college-engineering/requirements.txt
+        pip install -r introduction-to-college-engineering/requirements.txt
 
     # Build the book
     - name: Build the book
