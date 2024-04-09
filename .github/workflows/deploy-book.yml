@@ -36,13 +36,13 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build intoduction-to-college-engineering/
+        jupyter-book build introduction-to-college-engineering/
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
-        path: "intoduction-to-college-engineering/_build/html"
+        path: "introduction-to-college-engineering/_build/html"
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
