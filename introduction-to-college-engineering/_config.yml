@@ -9,7 +9,7 @@ logo: logo.png
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -31,7 +31,7 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: true
-  extra_footer: "Creative Commons Attribution-ShareAlike 4.0"
+  extra_footer: "license: Creative Commons Attribution-ShareAlike 4.0"
   home_page_in_navbar: false
   # favicon: "path/to/favicon/image"
   # announcement: "" # A banner announcement at the top of the site.
