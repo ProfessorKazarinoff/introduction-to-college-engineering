@@ -28,6 +28,7 @@ chapters:
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
+  - file: 99.appendix/99.2-unit-conversions.md
   - file: 99.appendix/99.4-references.md
 
 # ENGR 101 Book TOC
