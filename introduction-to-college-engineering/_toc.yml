@@ -25,6 +25,11 @@ chapters:
   - file: 3.statistics/3.7-histograms.md
   - file: 3.statistics/3.8-gaussian-distribution.md
   - file: 3.statistics/3.9-exersizes.md
+- file: 4.circuits/4.0-introduction.md
+  title: Circuits
+  sections:
+  - file: 4.circuits/4.1-electricity-basics.md
+  - file: 4.circuits/4.2-ohms-law.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
