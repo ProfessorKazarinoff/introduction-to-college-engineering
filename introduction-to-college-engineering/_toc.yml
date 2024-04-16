@@ -30,6 +30,7 @@ chapters:
   sections:
   - file: 4.circuits/4.1-electricity-basics.md
   - file: 4.circuits/4.2-ohms-law.md
+  - file: 4.circuits/4.3-combining-resistors.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
