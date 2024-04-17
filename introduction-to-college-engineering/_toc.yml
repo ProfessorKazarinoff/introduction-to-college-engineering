@@ -5,14 +5,16 @@ format: jb-book
 root: index.md
 chapters:
 - file: 2.units/2.0-introduction.md
-  title: Units and Significant Figures
+  title: Units
   sections:
   - file: 2.units/2.1-units-and-dimensions.md
   - file: 2.units/2.2-dimensional-analysis.md
   - file: 2.units/2.3-unit-conversion.md
   - file: 2.units/2.4-significant-figures.md
-  - file: 2.units/2.5-summary.md
-  - file: 2.units/2.6-exersizes.md
+  - file: 2.units/2.5-scientific-notation.md
+  - file: 2.units/2.6-engineering-notation.md
+  - file: 2.units/2.7-summary.md
+  - file: 2.units/2.8-exersizes.md
 - file: 3.statistics/3.0-introduction.md
   title: Statistics
   sections:
@@ -32,6 +34,7 @@ chapters:
   - file: 4.circuits/4.2-ohms-law.md
   - file: 4.circuits/4.3-combining-resistors.md
   - file: 4.circuits/4.4-circuit-schematics.md
+  - file: 4.circuits/4.5-power.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
