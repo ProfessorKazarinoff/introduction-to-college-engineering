@@ -31,7 +31,7 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: true
-  extra_footer: "license: Creative Commons Attribution-ShareAlike 4.0"
+  extra_footer: "License: Creative Commons Attribution-ShareAlike 4.0"
   home_page_in_navbar: false
   # favicon: "path/to/favicon/image"
   # announcement: "" # A banner announcement at the top of the site.
