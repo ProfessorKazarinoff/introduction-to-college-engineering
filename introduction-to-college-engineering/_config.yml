@@ -35,3 +35,12 @@ html:
   home_page_in_navbar: false
   # favicon: "path/to/favicon/image"
   # announcement: "" # A banner announcement at the top of the site.
+
+sphinx:
+  config:
+    latex_elements:
+      fncychap: '\usepackage[Lenny]{fncychap}'
+      preamble: |
+        %%% ADDED using sphinx:config:latex_elements:preamble %%%
+        \setcounter{secnumdepth}{1}
+        %%% END using sphinx:config:latex_elements:preamble %%%
