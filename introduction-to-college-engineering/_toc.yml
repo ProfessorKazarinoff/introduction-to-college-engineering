@@ -3,6 +3,8 @@
 
 format: jb-book
 root: index.md
+options:
+  numbered: 2
 chapters:
 - file: 2.units/2.0-introduction.md
   title: Units
