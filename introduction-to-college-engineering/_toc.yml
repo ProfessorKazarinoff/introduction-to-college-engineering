@@ -37,6 +37,10 @@ chapters:
   - file: 4.circuits/4.3-combining-resistors.md
   - file: 4.circuits/4.4-circuit-schematics.md
   - file: 4.circuits/4.5-power.md
+- file: 5.vectors/5.0-introduction.md
+  title: Vectors
+  sections:
+  - file: 5.vectors/5.1-vectors-and-scalars.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
