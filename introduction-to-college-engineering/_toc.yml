@@ -41,6 +41,8 @@ chapters:
   title: Vectors
   sections:
   - file: 5.vectors/5.1-vectors-and-scalars.md
+  - file: 5.vectors/5.2-vector-notation.md
+  - file: 5.vectors/5.3-vector-addition-and-multiplication.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
