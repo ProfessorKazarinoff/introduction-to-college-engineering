@@ -49,6 +49,7 @@ chapters:
   - file: 5.vectors/5.7-3D-vectors.md
   - file: 5.vectors/5.8-dot-product.md
   - file: 5.vectors/5.9-cross-product.md
+  - file: 5.vectors/5.10-exersizes.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
