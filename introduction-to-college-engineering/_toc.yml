@@ -43,6 +43,9 @@ chapters:
   - file: 5.vectors/5.1-vectors-and-scalars.md
   - file: 5.vectors/5.2-vector-notation.md
   - file: 5.vectors/5.3-vector-addition-and-multiplication.md
+  - file: 5.vectors/5.4-unit-vectors.md
+  - file: 5.vectors/5.5-vector-magnitude.md
+  - file: 5.vectors/5.9-cross-product.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
