@@ -37,6 +37,7 @@ chapters:
   - file: 4.circuits/4.3-combining-resistors.md
   - file: 4.circuits/4.4-circuit-schematics.md
   - file: 4.circuits/4.5-power.md
+  - file: 4.circuits/4.6-exersizes.md
 - file: 5.vectors/5.0-introduction.md
   title: Vectors
   sections:
@@ -66,17 +67,17 @@ chapters:
 
 ### Engineering Education
 
-#### Civil
+#### Civil Engineering
 
-#### Electrical
+#### Electrical Engineering
 
-#### Mechanical
+#### Mechanical Engineering
 
-#### Chemical
+#### Chemical Engineering
 
-#### Bio
+#### Bio Engineering
 
-### Comp Sci
+### Computer Science and Engineering
 
 ### Engineering Tools
 
@@ -84,11 +85,13 @@ chapters:
 
 ##### Engineering Paper
 
-##### Pencils
+##### Mechancial Pencils
 
 ##### Rulers and stencils
 
 ##### Calculators
+
+###### Calculators for the FE exam
 
 #### Computer Tools
 
@@ -100,27 +103,11 @@ chapters:
 
 ## Units and Significant Figures
 
-### Units and Dimensions
-
-### Unit Conversions
-
-### Significant Figures
-
-### Exercises
-
 ## Statistics
 
 ## Electricity
 
 ## Circuits
-
-### Circuit Symbols
-
-### Series Circuits
-
-### Parallel Circuits
-
-### Kirchov’s Laws
 
 ## Vectors
 
@@ -138,6 +125,6 @@ chapters:
 
 ### Symbols
 
-### Geometry
+### z-score table
 
-### Algebra
+### references
