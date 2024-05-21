@@ -51,6 +51,16 @@ chapters:
   - file: 5.vectors/5.8-dot-product.md
   - file: 5.vectors/5.9-cross-product.md
   - file: 5.vectors/5.10-exersizes.md
+- file: 6.statics/6.0-introduction.md
+  sections:
+  - file: 6.statics/6.1-what-is-statics.md
+  - file: 6.statics/6.2-free-bodies.md
+  - file: 6.statics/6.3-forces.md
+  - file: 6.statics/6.4-laws-of-motion.md
+  - file: 6.statics/6.5-free-body-diagrams.md
+  - file: 6.statics/6.6-static-equalibrium.md
+  - file: 6.statics/6.7-2D-static-analysis.md
+  - file: 6.statics/6.8-exersizes.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
