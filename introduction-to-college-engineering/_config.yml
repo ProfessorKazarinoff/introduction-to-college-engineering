@@ -38,6 +38,7 @@ html:
 
 sphinx:
   config:
+    bibtex_reference_style: label
     latex_elements:
       fncychap: '\usepackage[Lenny]{fncychap}'
       preamble: |
