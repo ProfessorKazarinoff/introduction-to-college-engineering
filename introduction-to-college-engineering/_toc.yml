@@ -61,6 +61,15 @@ chapters:
   - file: 6.statics/6.6-static-equalibrium.md
   - file: 6.statics/6.7-2D-static-analysis.md
   - file: 6.statics/6.8-exersizes.md
+- file: 7.strengths/7.0-introduction.md
+  sections:
+  - file: 7.strengths/7.1-what-is-strengths.md
+  - file: 7.strengths/7.2-internal-forces.md
+  - file: 7.strengths/7.3-stress-and-strain.md
+  - file: 7.strengths/7.4-elastic-deformation.md
+  - file: 7.strengths/7.5-stress-strain-curves.md
+  - file: 7.strengths/7.6-safety-factor.md
+  - file: 7.strengths/7.7-exersizes.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
