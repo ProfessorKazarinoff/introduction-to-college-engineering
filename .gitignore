@@ -167,3 +167,6 @@ introduction-to-college-engineering/_build/
 introduction-to-college-engineering/.DS_Store
 *.DS_Store
 */.DS_Store
+
+# LaTeX log files if a LeTeX compile is tried in the root dir
+x.log
