@@ -76,7 +76,8 @@ chapters:
   - file: 99.appendix/99.2-unit-conversions.md
   - file: 99.appendix/99.3-z-score-chart.md
   - file: 99.appendix/99.4-glossary-of-symbols.md
-  - file: 99.appendix/99.5-references.md
+  - file: 99.appendix/99.5-fundamental-constants.md
+  - file: 99.appendix/99.6-references.md
 
 # ENGR 101 Book TOC
 
@@ -145,5 +146,7 @@ chapters:
 ### Symbols
 
 ### z-score table
+
+### Universal Constants
 
 ### references
