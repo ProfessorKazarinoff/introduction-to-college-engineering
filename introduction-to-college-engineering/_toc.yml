@@ -22,7 +22,7 @@ chapters:
   sections:
   - file: 3.statistics/3.1-what-is-statistics.md
   - file: 3.statistics/3.2-why-statistics-for-engineers
-  - file: 3.statistics/3.3-discrete-and-continous-measurements.md
+  - file: 3.statistics/3.3-discrete-and-continuous-measurements.md
   - file: 3.statistics/3.4-samples-and-populations.md
   - file: 3.statistics/3.5-measures-of-central-tendency.md
   - file: 3.statistics/3.6-measures-of-variation.md
