@@ -70,6 +70,14 @@ chapters:
   - file: 7.strengths/7.5-stress-strain-curves.md
   - file: 7.strengths/7.6-safety-factor.md
   - file: 7.strengths/7.7-exersizes.md
+- file: 8.sustainability/8.0-introduction.md
+  sections:
+  - file: 8.sustainability/8.1-why-sustainability.md
+  - file: 8.sustainability/8.2-what-is-sustainability.md
+  - file: 8.sustainability/8.3-analyzing-sustainability.md
+  - file: 8.sustainability/8.4-where-do-we-go-from-here.md
+  - file: 8.sustainability/8.5-summary.md
+  - file: 8.sustainability/8.6-exersizes.md
 - file: 99.appendix/99.0-appendix.md
   title: Appendix
   sections:
