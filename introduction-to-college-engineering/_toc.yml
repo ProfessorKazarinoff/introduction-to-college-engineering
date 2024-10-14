@@ -58,7 +58,7 @@ chapters:
   - file: 6.statics/6.3-forces.md
   - file: 6.statics/6.4-laws-of-motion.md
   - file: 6.statics/6.5-free-body-diagrams.md
-  - file: 6.statics/6.6-static-equalibrium.md
+  - file: 6.statics/6.6-static-equilibrium.md
   - file: 6.statics/6.7-2D-static-analysis.md
   - file: 6.statics/6.8-exersizes.md
 - file: 7.strengths/7.0-introduction.md
