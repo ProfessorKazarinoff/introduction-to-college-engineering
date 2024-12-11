@@ -6,6 +6,18 @@ root: index.md
 options:
   numbered: 2
 chapters:
+- file: 1.introduction\1.0-introduction.md
+  title: Introduction
+  sections:
+  - file: 1.introduction/1.1-about-this-book.md
+  - file: 1.introduction/1.2-what-is-engineering.md
+  - file: 1.introduction/1.3-engineering-disciplines.md
+  - file: 1.introduction/1.4-engineering-careers.md
+  - file: 1.introduction/1.5-engineering-tools.md
+  - file: 1.introduction/1.6-engineering-eduction.md
+  - file: 1.introduction/1.7-fe-and-pe-exams.md
+  - file: 1.introduction/1.8-summary.md
+  - file: 1.introduction/1.9-exersizes.md
 - file: 2.units/2.0-introduction.md
   title: Units
   sections:
