@@ -6,7 +6,7 @@ root: index.md
 options:
   numbered: 2
 chapters:
-- file: 1.introduction\1.0-introduction.md
+- file: 1.introduction/1.0-introduction.md
   title: Introduction
   sections:
   - file: 1.introduction/1.1-about-this-book.md
