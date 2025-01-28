@@ -49,7 +49,8 @@ chapters:
   - file: 4.circuits/4.3-combining-resistors.md
   - file: 4.circuits/4.4-circuit-schematics.md
   - file: 4.circuits/4.5-power.md
-  - file: 4.circuits/4.6-exersizes.md
+  - file: 4.circuits/4.6-kirchhoffs-laws.md
+  - file: 4.circuits/4.7-exersizes.md
 - file: 5.vectors/5.0-introduction.md
   title: Vectors
   sections:
